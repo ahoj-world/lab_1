@@ -1,1 +1,9 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using Systyem;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello");
+    }
+}
